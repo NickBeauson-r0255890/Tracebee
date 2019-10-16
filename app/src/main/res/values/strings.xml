@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Tracebee</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome to Tracebee!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="newUser">Don\'t have an account yet?</string>
+    <!-- Strings related to CreateUser -->
+    <string name="submit">Register</string>
+    <string name="register">Register</string>
+    <string name="name">Name:</string>
+    <string name="nameEdit">name</string>
+    <string name="country">Country:</string>
+
+    <string-array name="countries">
+        <item>Belgium</item>
+        <item>Netherlands</item>
+        <item>Japan</item>
+    </string-array>
+
+    <string name="mail">Email:</string>
+    <string name="mailEdit">mail</string>
+    <string name="currency">Currency:</string>
+    <string-array name="currencies">
+        <item>euro</item>
+        <item>dollar</item>
+        <item>pound</item>
+        <item>yen</item>
+    </string-array>
+
+    <!-- Strings related to HomeScreen -->
+    <string name="title_activity_home_screen">HomeScreenActivity</string>
+
+    <!-- Strings related to AddTopic -->
+    <string name="title">Title</string>
+    <string name="budget">Budget</string>
+    <string name="goal">Goal</string>
+    <string name="addPhoto">Add photo</string>
+    <string name="complete">Complete</string>
+
+
+</resources>
